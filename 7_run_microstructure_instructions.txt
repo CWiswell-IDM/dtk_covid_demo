@@ -1,0 +1,6 @@
+Change directory into the assets directory:
+> cd assets
+
+Run Eradication with the newly created config file, and enable python
+> Eradication.exe -C covid_config_final.json -P . -O output_final
+
